@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabrício Gomes
+- 👋 HI, I'M FABRÍCIO GOMES
 
 
 <!---
