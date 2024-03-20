@@ -1,4 +1,4 @@
-- 👋 HI, I'M FABRÍCIO GOMES
+## 👋 HI, I'M FABRÍCIO GOMES
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-gsantos&theme=shadow_red&show_icons=true)
 <!---
