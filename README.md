@@ -1,6 +1,5 @@
 ## 👋 Hey, welcome to my profile!
 
-     👨‍💻 My name is Fabrício Gomes and I'm currently studying software engineering at Fiap!!
 
 
 <div align="center">
