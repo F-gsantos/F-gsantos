@@ -15,8 +15,6 @@
 
 ###
 
-![snake gif](https://github.com/F-gsantos/F-gsantos/blob/output/github-contribution-grid-snake-dark.svg)
-
 
   <div align="center">
     <p>Total de visitas no perfil:</p>
