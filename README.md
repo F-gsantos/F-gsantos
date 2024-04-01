@@ -20,6 +20,7 @@
 
   <div align="center">
     <p>Total de visitas no perfil:</p>
+        <img src="https://profile-counter.glitch.me/F-gsantos/count.svg"/>
 
 
 ###
